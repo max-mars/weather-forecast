@@ -1,0 +1,72 @@
+body {
+    margin:50px;
+    padding: 5px;
+    background-color: #fff;
+}
+form {
+    padding: 1px;
+}
+#query-form, body, html {
+    overflow-x: hidden;
+}
+html {
+    scroll-behavior: smooth;
+}
+.card {
+    padding: 14px;
+    padding-bottom: 0px;
+}
+#query-form {
+    margin-top: auto;
+}
+.tooltip.bottom > .tooltip-arrow {
+    border-bottom-width: .052083333in;
+}
+p {
+    font-size: 1.2rem;
+}
+.tooltip.bottom > .tooltip-arrow {
+    border-bottom-style: solid;
+}
+a:hover {
+    text-decoration: none;
+}
+.section-description {
+    margin-bottom: 3rem;
+}
+#query-form {
+    max-width: 85%;
+}
+p {
+    
+}
+.weather-description, .weather-icon-div, .weather-description, .weather-icon-div, .weather-description {
+    color: white;
+}
+.weather-description {
+    font-size: .8rem;
+}
+.weather-description {
+    margin-bottom: .6rem;
+}
+.weather-description {
+    margin-top: .2rem;
+}
+.weather-description {
+    min-height: 1.5em;
+}
+.weather-icon-div {
+    font-size: 3rem;
+}
+.weather-icon-div {
+    min-width: 8rem;
+}
+footer {
+    padding-bottom: 4rem;
+}
+footer {
+    padding-top: .2rem;
+}
+footer {
+    text-align: center;
+}
